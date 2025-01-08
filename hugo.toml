@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hr3078.github.io/selfssh/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'PaperMod'
