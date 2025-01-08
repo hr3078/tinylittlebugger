@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Simple Blog Post</title>
+      <link>http://localhost:1313/posts/sample-blog/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/sample-blog/</guid>
+      <description>&lt;h1 id=&#34;a-simple-blog-post&#34;&gt;A Simple Blog Post&lt;/h1&gt;
+&lt;p&gt;This is a simple blog post written in Markdown. It&amp;rsquo;s minimal, clean, and easy to convert to HTML.&lt;/p&gt;
+&lt;h2 id=&#34;heres-a-heading&#34;&gt;Here&amp;rsquo;s a Heading&lt;/h2&gt;
+&lt;p&gt;You can write paragraphs of text just like this one. Markdown makes it super simple.&lt;/p&gt;
+&lt;h3 id=&#34;a-list-of-things&#34;&gt;A List of Things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a-code-snippet&#34;&gt;A Code Snippet&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;Hello, world!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <content>&lt;h1 id=&#34;a-simple-blog-post&#34;&gt;A Simple Blog Post&lt;/h1&gt;
+&lt;p&gt;This is a simple blog post written in Markdown. It&amp;rsquo;s minimal, clean, and easy to convert to HTML.&lt;/p&gt;
+&lt;h2 id=&#34;heres-a-heading&#34;&gt;Here&amp;rsquo;s a Heading&lt;/h2&gt;
+&lt;p&gt;You can write paragraphs of text just like this one. Markdown makes it super simple.&lt;/p&gt;
+&lt;h3 id=&#34;a-list-of-things&#34;&gt;A List of Things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a-code-snippet&#34;&gt;A Code Snippet&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;Hello, world!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/blog-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../_resources/Screenshot%20from%202025-01-05%2009-44-54.png&#34; alt=&#34;Screenshot from 2025-01-05 09-44-54.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;my first blog website&lt;/strong&gt;
+file:///home/gagan/Pictures/Screenshot%20from%202024-12-25%2011-41-40.png
+&lt;em&gt;an image I copied to see if this has been rendered correctly or not&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I am going to use this image, shows a computer, a tightly compact computer that can be built for an all purpose nas?&lt;/p&gt;
+&lt;p&gt;Let see how this goes!&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;img src=&#34;../_resources/Screenshot%20from%202025-01-05%2009-44-54.png&#34; alt=&#34;Screenshot from 2025-01-05 09-44-54.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;my first blog website&lt;/strong&gt;
+file:///home/gagan/Pictures/Screenshot%20from%202024-12-25%2011-41-40.png
+&lt;em&gt;an image I copied to see if this has been rendered correctly or not&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I am going to use this image, shows a computer, a tightly compact computer that can be built for an all purpose nas?&lt;/p&gt;
+&lt;p&gt;Let see how this goes!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
