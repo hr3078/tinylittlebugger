@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog 1</title>
+      <link>http://localhost:1313/posts/blog-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;my first blog website&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am going to use this image, shows a computer, a tightly compact computer that can be built for an all purpose nas?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../_resources/Background.jpeg&#34; alt=&#34;Background.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Let see how this goes!&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;my first blog website&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am going to use this image, shows a computer, a tightly compact computer that can be built for an all purpose nas?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../_resources/Background.jpeg&#34; alt=&#34;Background.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Let see how this goes!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
